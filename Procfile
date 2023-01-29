@@ -1,1 +1,1 @@
-web: node uniswap.ts
+web: ts-node uniswap.ts
